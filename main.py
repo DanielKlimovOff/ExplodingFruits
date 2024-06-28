@@ -159,7 +159,7 @@ class Game:
 
 
 if __name__ == '__main__':
-    s = CardSet('Классика')
+    s = CardSet('Classic')
     p1 = Player('Daniel')
     p2 = Player('Nikita')
     p3 = Player('Ivan')
